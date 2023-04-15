@@ -1,0 +1,2 @@
+# adiops
+DevOps practicals
